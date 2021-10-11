@@ -1,0 +1,48 @@
+.navbar-light{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f8f9fa; 
+    
+}
+.navbar-dark{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(33 37 41);
+    color: white;
+    
+}
+.navbar-blue{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(21, 21, 129, 0.897);
+    color: white;
+    
+}
+.navbar-pink{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 27, 236, 0.897);
+    color: white;
+    
+}
+.navbar-item{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+   
+}
+ul li{
+    padding: 10px;
+    cursor: pointer;
+    list-style: none;
+}
+.mode-container{
+    margin-top: 10px;
+}
+#mode{
+    margin-right: 33px;
+    padding: 4px;
+    margin-top: 11px;
+    cursor: pointer;
+}
