@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/textuti/static/css/main.ca890548.chunk.css",
+    "main.js": "/textuti/static/js/main.a996f949.chunk.js",
+    "main.js.map": "/textuti/static/js/main.a996f949.chunk.js.map",
+    "runtime-main.js": "/textuti/static/js/runtime-main.86325124.js",
+    "runtime-main.js.map": "/textuti/static/js/runtime-main.86325124.js.map",
+    "static/js/2.efbd46a2.chunk.js": "/textuti/static/js/2.efbd46a2.chunk.js",
+    "static/js/2.efbd46a2.chunk.js.map": "/textuti/static/js/2.efbd46a2.chunk.js.map",
+    "static/js/3.a58f5969.chunk.js": "/textuti/static/js/3.a58f5969.chunk.js",
+    "static/js/3.a58f5969.chunk.js.map": "/textuti/static/js/3.a58f5969.chunk.js.map",
+    "index.html": "/textuti/index.html",
+    "static/css/main.ca890548.chunk.css.map": "/textuti/static/css/main.ca890548.chunk.css.map",
+    "static/js/2.efbd46a2.chunk.js.LICENSE.txt": "/textuti/static/js/2.efbd46a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86325124.js",
+    "static/js/2.efbd46a2.chunk.js",
+    "static/css/main.ca890548.chunk.css",
+    "static/js/main.a996f949.chunk.js"
+  ]
+}
